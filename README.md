@@ -101,10 +101,12 @@
 
 ---
 
-# 🐍 Contribution Snake Animation  
+# 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/sabnekarvineel/sabnekarvineel/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
