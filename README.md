@@ -13,9 +13,8 @@
 
 # 👨‍💻 About Me  
 💠 BCA Student — Bhavan’s Vivekananda College  
-💠 Full-Stack Developer (MERN + Java)  
-💠 DevOps, Cloud & System Design Learner  
-💠 Working on: **TechConHub**, **Dekho Duniya**, **2D Racing Game**  
+💠 Full-Stack Developer (MERN + Java)    
+💠 Working on: **InnovateX Hub**, **Dekho Duniya**,  
 💠 Passionate about building scalable apps & startup products  
 💠 Aiming to become a **Full-Stack + DevOps Engineer**
 
@@ -52,7 +51,7 @@
 
 # 🚀 Featured Projects (Glass Effect)
 
-## 🔵 TechConHub
+## 🔵 InnovateX Hub
 <div align="center">
   <img src="https://i.postimg.cc/90h3v4qf/card1.png" width="80%" style="border-radius:20px;" />
 </div>
@@ -81,18 +80,6 @@
 
 ---
 
-## 🔴 2D Racing Game  
-<div align="center">
-  <img src="https://i.postimg.cc/RV7Z4tDn/gamecard.png" width="80%" style="border-radius:20px;" />
-</div>
-
-**Phaser-based game with:**  
-✔ Coins  
-✔ Nitro  
-✔ Difficulty levels  
-✔ Game over  
-
----
 
 # 📊 GitHub Analytics (Ultra Premium)  
 
