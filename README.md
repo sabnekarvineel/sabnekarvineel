@@ -80,8 +80,10 @@
 
 ### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabnekarvineel&theme=tokyonight&hide_border=true" />
+  <img style="border-radius: 20px; box-shadow: 0 0 15px #00eaff;" 
+       src="https://streak-stats.demolab.com?user=sabnekarvineel&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ### 🚀 GitHub Stats  
 <p align="center">
