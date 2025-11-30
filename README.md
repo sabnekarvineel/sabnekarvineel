@@ -109,7 +109,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sabnekar-vineel-33b2942a2/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
   <a href="https://github.com/sabnekarvineel"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" height="30"></a>
-  <a href="sabnekarvineel862@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"></a>
+  <a href="mailto:sabnekarvineel862@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"></a>
 </p>
 
 
