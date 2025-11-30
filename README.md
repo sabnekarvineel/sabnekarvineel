@@ -112,12 +112,7 @@
   <a href="sabnekarvineel862@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"></a>
 </p>
 
----
 
-# 👀 Visitor Count  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/sabnekarvineel/count.svg" />
-</p>
 
 
 <!--
