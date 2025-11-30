@@ -84,13 +84,6 @@
        src="https://streak-stats.demolab.com?user=sabnekarvineel&theme=tokyonight&hide_border=true"/>
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabnekarvineel&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabnekarvineel&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
-
 ### 🏆 Profile Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sabnekarvineel&theme=tokyonight&margin-w=10&no-frame=true&row=1" />
