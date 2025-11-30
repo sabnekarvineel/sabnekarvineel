@@ -1,6 +1,6 @@
 
 <!-- 4K Banner -->
-<p align="center">
+<p align="center"> 
   <img src="https://res.cloudinary.com/dqpxq0ljn/image/upload/v1764520071/sabnekarvineel_npr4rk.png" width="100%" />
 </p>
 
