@@ -53,9 +53,6 @@
 # 🚀 Featured Projects (Glass Effect)
 
 ## 🔵 InnovateX Hub
-<div align="center">
-  <img src="https://i.postimg.cc/90h3v4qf/card1.png" width="80%" style="border-radius:20px;" />
-</div>
 
 **A platform connecting founders, investors & freelancers.**  
 ✔ Startup profiles  
@@ -68,9 +65,6 @@
 ---
 
 ## 🟢 Dekho Duniya  
-<div align="center">
-  <img src="https://i.postimg.cc/J7GCnBWq/travelcard.png" width="80%" style="border-radius:20px;" />
-</div>
 
 **Trip & travel planning for middle-class families.**  
 ✔ Trip planner  
@@ -113,9 +107,9 @@
 
 # 🌐 Connect With Me  
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
+  <a href="https://www.linkedin.com/in/sabnekar-vineel-33b2942a2/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
   <a href="https://github.com/sabnekarvineel"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" height="30"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"></a>
+  <a href="sabnekarvineel862@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"></a>
 </p>
 
 ---
