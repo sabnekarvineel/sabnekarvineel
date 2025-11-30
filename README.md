@@ -1,4 +1,4 @@
-## Hi there 👋
+  <center>## Hi there 👋</center>
 <!-- 4K Banner -->
 <p align="center">
   <img src="https://i.postimg.cc/4N0TMqfc/tech-banner-4k.png" width="100%" />
