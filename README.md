@@ -91,15 +91,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sabnekarvineel/sabnekarvineel/output/snake.svg" alt="Snake animation" />
-</p>
-
-
----
-
 # 🌐 Connect With Me  
 <p align="center">
   <a href="www.linkedin.com/in/sabnekar-vineel-33b2942a2"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
