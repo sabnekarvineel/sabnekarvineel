@@ -6,7 +6,7 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey+I'm+sabnekarvineel+👋;Full+Stack+%26+DevOps+Learner;Student+%7C+Freelancer;Building+InnovateX+Hub+%26+Dekho+Duniya;Welcome+to+My+GitHub+Universe!+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey+I'm+sabnekarvineel+👋;Full+Stack+%26+DevOps+Learner;Student+%7C+Freelancer;Building+Fondora+X+%26+Dekho+Duniya;Welcome+to+My+GitHub+Universe!+🚀">
 </p>
 
 
