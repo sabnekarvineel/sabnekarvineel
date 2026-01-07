@@ -52,7 +52,7 @@
 
 # 🚀 Featured Projects (Glass Effect)
 
-## 🔵 InnovateX Hub
+## 🔵 Fondora-X
 
 **A platform connecting founders, investors & freelancers.**  
 ✔ Startup profiles  
