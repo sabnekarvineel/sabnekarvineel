@@ -15,7 +15,7 @@
 # 👨‍💻 About Me  
 💠 BCA Student — Bhavan’s Vivekananda College  
 💠 Full-Stack Developer (MERN + Java)    
-💠 Working on: **InnovateX Hub**, **Dekho Duniya**,  
+💠 Working on: **Fondora-X**, **Dekho Duniya**,  
 💠 Passionate about building scalable apps & startup products  
 💠 Aiming to become a **Full-Stack + DevOps Engineer**
 
