@@ -21,7 +21,7 @@
 
 ---
 
-# 🛠️ Tech Stack (Ultra Mode)
+# 🛠️ Tech Stack 
 
 ### 🚀 Languages  
 <p align="left">
@@ -50,7 +50,7 @@
 
 ---
 
-# 🚀 Featured Projects (Glass Effect)
+# 🚀 Featured Projects 
 
 ## 🔵 Fondora-X
 
@@ -76,7 +76,7 @@
 ---
 
 
-# 📊 GitHub Analytics (Ultra Premium)  
+# 📊 GitHub Analytics 
 
 ### 🔥 Streak Stats  
 <p align="center">
