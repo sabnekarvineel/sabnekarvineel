@@ -38,6 +38,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=spring boot,java" height="45" />
+</p>
+
 ### 🛢 Databases  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45" />
